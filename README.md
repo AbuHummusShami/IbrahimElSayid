@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ibrahim Al Sayed
+- 👋 Hi, I’m Abu Hummus 🍲
 - 🌱 I’m currently learning C++, Java, Python
-
-
-
-
+- i wanna be computer engineer
+- i suck at programming
